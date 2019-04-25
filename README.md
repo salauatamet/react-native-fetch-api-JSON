@@ -1,2 +1,2 @@
 # react-native-fetch-api-JSON
-[RU] Вывод данных JSON через fetch api на react native. 
+[RU] вывод данных JSON через fetch api на react native. [EN] output JSON data through fetch api to react native
